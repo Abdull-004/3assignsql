@@ -13,9 +13,9 @@ CREATE TABLE student (
 
 -- Step 4: Insert records into the student table
 INSERT INTO student (id, fullName, age) VALUES
-(1, 'Alice Johnson', 22),
-(2, 'Bob Smith', 19),
-(3, 'Charlie Brown', 21);
+(1, 'Elizabeth Keen', 40),
+(2, 'Raymond Reddington', 55),
+(3, 'Donald Ressler', 40);
 
 -- Step 5: Update the age of the student with ID 2
 UPDATE student
